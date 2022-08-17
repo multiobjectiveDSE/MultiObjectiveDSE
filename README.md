@@ -15,7 +15,7 @@ Further, AdaBoost is first introduced to GBRT model to improve the prediction ac
 
 ## Install
 
-This project uses torch,skopt, math and several basic python package. Go check them out if you don't have them locally installed.
+This project uses torch, skopt, math, and several basic python package. Go check them out if you don't have them locally installed.
 
 ## Usage
 
